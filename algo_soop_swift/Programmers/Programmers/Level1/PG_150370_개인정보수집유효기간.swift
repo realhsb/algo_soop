@@ -79,7 +79,7 @@ func solution(_ today:String, _ terms:[String], _ privacies:[String]) -> [Int] {
     return answer
 }
 
-func main() {
+func main0() {
 //    var today = "2022.05.19"
 //    var terms = ["A 6", "B 12", "C 3"]
 //    var privacies = ["2021.05.02 A", "2021.07.01 B", "2022.02.19 C", "2022.02.20 C"]
@@ -98,4 +98,4 @@ func main() {
     print(answer)
 }
 
-main()
+//main()
